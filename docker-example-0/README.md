@@ -1,3 +1,5 @@
+# Building Your Own Image with a Dockerfile, and a Basic Volume
+
 1. Look at Dockerfile and let's build that image: `docker build -f ./Dockerfile -t docker-example .`
 1. Spin up a container based on our image `docker run --rm docker-example`
   - Why weren't we given a prompt?

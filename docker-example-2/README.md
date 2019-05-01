@@ -1,5 +1,6 @@
-# Warning
-These commands are carefully crafted to NOT negatively affect your system. It is HIGHLY recommended to not diviate from this script. They are also specific to Unix-like systems, do not attempt on Windows, outcomes are unkown.
+# Volumes and the Great Docker Vulnerability
+## Warning
+These commands are carefully crafted to NOT negatively affect your system. It is HIGHLY recommended to not deviate from this script. They are also specific to Unix-like systems, do not attempt on Windows, outcomes are unkown.
 
 This is an example of a well known vulnerability of Docker, working as intended: https://docs.docker.com/engine/security/security/#docker-daemon-attack-surface
 

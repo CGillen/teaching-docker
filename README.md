@@ -1,3 +1,6 @@
+# The Basics
+
+## Images, Containers, and the Docker Command
 1. Let's start by pulling an image: `docker pull python:3.5.7`  
   a. `docker images`
   - What did we accomplish?
