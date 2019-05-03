@@ -12,9 +12,9 @@ This is an example of a well known vulnerability of Docker, working as intended:
   - How else could this be abused?
   - What did the attacker need to be able to do?
 4. Alright, so how can we mitigate this?  
-  a. Open `docker-example-2/docker-compose.yml`
-  b. Uncomment `# USER 1000`
-  c. Rebuild the image `docker-compose build`
-  d. Re-run the container `docker-compose up`
+  a. Open `docker-example-2/docker-compose.yml`  
+  b. Uncomment `# USER 1000`  
+  c. Rebuild the image `docker-compose build`  
+  d. Re-run the container `docker-compose up`  
   - What changed?
   - What does this mean?
